@@ -50,7 +50,7 @@ restart.visible=false;
 
 function draw() {
 
- background("#4c4c4c");
+ background("#4c4d4f");
  if(state==="play"){
   boy.x = World.mouseX;
   
